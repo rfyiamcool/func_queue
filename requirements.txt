@@ -1,0 +1,6 @@
+PyYAML==3.11
+redis==2.10.3
+requests==2.5.1
+rq==0.5.4
+Werkzeug==0.14.1
+Flask==0.12.2
